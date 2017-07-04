@@ -1,0 +1,13 @@
+Source: musl-sysroot
+Section: libdevel
+Priority: extra
+Maintainer: Keith Winstein <keithw@cs.stanford.edu>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+
+Package: musl-sysroot
+Architecture: amd64
+Depends: ${misc:Depends}, musl-dev, binutils
+Description: Symlinks to build a gcc cross-compiler targeting musl
+ This package contains a sysroot for an x86_64-linux-musl system,
+ using symlinks to files provided by binutils and musl-dev.

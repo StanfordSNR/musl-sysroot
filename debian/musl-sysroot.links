@@ -1,0 +1,14 @@
+/usr/lib/x86_64-linux-musl /usr/x86_64-linux-musl/lib
+/usr/include/x86_64-linux-musl /usr/x86_64-linux-musl/include
+/usr/bin/x86_64-linux-gnu-strip /usr/bin/x86_64-linux-musl-strip
+/usr/bin/x86_64-linux-gnu-ranlib /usr/bin/x86_64-linux-musl-ranlib
+/usr/bin/x86_64-linux-gnu-nm /usr/bin/x86_64-linux-musl-nm
+/usr/bin/x86_64-linux-gnu-ld /usr/bin/x86_64-linux-musl-ld
+/usr/bin/x86_64-linux-gnu-as /usr/bin/x86_64-linux-musl-as
+/usr/bin/x86_64-linux-gnu-ar /usr/bin/x86_64-linux-musl-ar
+/usr/share/man/man1/x86_64-linux-gnu-strip.1.gz /usr/share/man/man1/x86_64-linux-musl-strip.1.gz
+/usr/share/man/man1/x86_64-linux-gnu-ranlib.1.gz /usr/share/man/man1/x86_64-linux-musl-ranlib.1.gz
+/usr/share/man/man1/x86_64-linux-gnu-nm.1.gz /usr/share/man/man1/x86_64-linux-musl-nm.1.gz
+/usr/share/man/man1/x86_64-linux-gnu-ld.1.gz /usr/share/man/man1/x86_64-linux-musl-ld.1.gz
+/usr/share/man/man1/x86_64-linux-gnu-as.1.gz /usr/share/man/man1/x86_64-linux-musl-as.1.gz
+/usr/share/man/man1/x86_64-linux-gnu-ar.1.gz /usr/share/man/man1/x86_64-linux-musl-ar.1.gz

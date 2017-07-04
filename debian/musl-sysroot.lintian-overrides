@@ -1,0 +1,2 @@
+# overridden to make /usr/x86_64-linux-musl (as in binutils-cross)
+musl-sysroot binary: non-standard-dir-in-usr
